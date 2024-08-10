@@ -10,7 +10,7 @@
     --c-yellow: rgb(246, 255, 0);
     --c-orange: rgb(255, 119, 0); 
     --c-red: rgb(255, 15, 3); 
-    --c-magenta: rgb(97, 10, 51);
+    --c-magenta: rgb(97, 10, 51); 
     --c-violet: rgb(130, 140, 210); 
     --c-blue: rgb(70, 160, 240); 
     --c-cyan: rgb(0, 244, 223); 
@@ -18,7 +18,7 @@
     --c-dark-blue: rgb(0, 0, 139);
   }
   
-  /* 1. Set the background color of the page */
+  /* 1. Set the background color of the main page */
   body {
     background-color: var(--c-background-color);
     color: var(--base-font-color);
