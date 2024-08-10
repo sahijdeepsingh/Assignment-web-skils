@@ -76,7 +76,7 @@
 }
 
 
-  /* 9. Align list items in the nav section to the center and apply a flex layout */
+  /* 9. Align list items in the nav section to the center and apply a flex layout  */
   nav ul li {
     flex: 1;
     text-align: center;
